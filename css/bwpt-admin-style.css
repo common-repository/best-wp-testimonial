@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* Best WP Testimonial Admin CSS */
+.bwpt-warp {
+	background: #fff;
+	padding: 25px 15px;
+	overflow: hidden;
+}
+.bwpt-main-body {
+	width: 65%;
+	float: left;
+	border: 1px solid;
+	padding: 10px;
+	margin-right: 10px;
+}
+.bwpt-sidebar {
+	width: 25%;
+	float: left;
+	border: 1px solid;
+	padding: 10px;
+}
+.clsrFX {
+	clear: both;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+#your-profile label+a, label {
+    vertical-align: middle;
+    float: left;
+    min-width: 120px;
+}
